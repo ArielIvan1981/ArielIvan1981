@@ -1,7 +1,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/9N2UvCx7wXLnG/giphy.gif" width=300/>
     <h1 align="center">Hi, I am Ariel Herrera</h1>
-    <h3 align="center">I am an Electronic Engineer specialized in Process Control and Automation from Argentina. I am currently finishing a Master's Degree in Software           Engineering and Computer Systems. I finished a certification in Data Science and now I am researching about Artificial Intelligence and Machine Learning. I             have programming knowledge in R, Python, Java and Database Development.
+    <h3 align="center">I am an Electronic Engineer specialized in Process Control and Automation, Master Degree in Software Engineering and Computer Systems.
+        I am from Argentina. I finished a certification in Data Science and now I am researching about Artificial Intelligence, Machine Learning and Deep Learning. I have programming knowledge in Python and Database Development.
     </h3>
 </div>
 
